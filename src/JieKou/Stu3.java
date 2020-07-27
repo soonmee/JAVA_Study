@@ -8,13 +8,13 @@ package JieKou;
  * 抽象类可以对应接口
  */
 interface Person3_1{
-    String Author = "肖柯攀";
+    String Author = "张三";
     void print();
     String getInfo();
 }
 
 interface Person3_2{
-    String Author = "肖柯攀2";
+    String Author = "张三2";
     public void say();
 }
 

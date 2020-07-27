@@ -27,9 +27,9 @@ public class Stu8 {
 
     /*    //使用PrintWriter类写入数据
         PrintWriter file = new PrintWriter("D:\\a.txt");
-        file.print("肖柯攀");
+        file.print("张三");
         file.println("\t21");
-        file.print("肖柯攀");
+        file.print("张三");
         file.println("\t22");
         file.close();                                       //必须关闭文件，才能正确的保存数据在文件中
 */
@@ -38,9 +38,9 @@ public class Stu8 {
         try{
             PrintWriter file = new PrintWriter("D:\\a.txt");
         }{
-            file.print("肖柯攀");
+            file.print("张三");
             file.println("\t21");
-            file.print("肖柯攀");
+            file.print("张三");
             file.println("\t22");
         }
          */
